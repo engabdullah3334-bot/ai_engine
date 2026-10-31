@@ -1,0 +1,7 @@
+# ==============================================================================
+# ai_engine — Standalone Package Requirements
+# ==============================================================================
+# Multilingual dense embeddings and local Ollama LLM client.
+# (Persistent SQLite conversation archive and Web UI use Python Standard Library.)
+sentence-transformers>=2.6.0
+ollama>=0.3.0
